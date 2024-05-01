@@ -797,9 +797,17 @@ footer #footer_2 ul{
 
 
 @media (max-width:400px) {
+
+    #content #content_text {
+        padding: 0 24px;
+    }
+    #content #content_text h3 {
+        padding: 7.5px 15px;
+    }
     #section_3 #footer_content #button_container{
         display: grid;
         justify-items: center;
         row-gap: 16px;
     }
+}
 }
