@@ -713,7 +713,6 @@ footer #footer_2 ul {
     #section_2 h3 {
         text-align: center;
         font-size: 35px;
-
     }
 
     #section_2 #content_box {
@@ -754,8 +753,6 @@ footer #footer_2 ul {
         flex-wrap: wrap;
         column-gap: 16px;
     }
-
-
 }
 
 /* ------------------------------------------ */
